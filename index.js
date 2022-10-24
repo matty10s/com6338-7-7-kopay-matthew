@@ -133,6 +133,8 @@ function Question(){
     ans2.textContent = questionsArr[i].options[1]
     ans3.textContent = questionsArr[i].options[2]
     ans4.textContent = questionsArr[i].options[3]
+
+    //Timer Definition
     timerText.textContent = timer;
     if (!ranAlready){
     ans1.addEventListener('click', function submitResponse() {
