@@ -28,53 +28,53 @@ var playingYet = false
 
 var questionsArr = [
     {
-        question: 'In which Italian City can you find the Colosseum?',
-        answer: 'Rome',
+        question: 'In the TV show The Big Bang Theory Who officiates Sheldon and Amy\'s Wedding?',
+        answer: 'Mark Hamill',
         options: [
-            'Venice',
-            'Rome',
-            'Naples',
-            'Milan',
+            'Mark Hamill',
+            'William Shatner',
+            'Wil Wheaton',
+            'Chris Pratt',
         ]
     },
     {
-        question: 'In the TV show New Girl, which actress plays Jessica Day?',
-        answer: 'Zooey Deschanel',
+        question: 'A la Crecy is a French dish made of what?',
+        answer: 'Carrots',
         options: [
-            'Zooey Deschanel',
-            'Kaley Cuoco',
-            'Jennifer Anniston',
-            'Alyson Hannigan',
+            'Apples',
+            'Carrots',
+            'Potatoes',
+            'Green Beans',
         ]
     },
     {
-        question: 'What is the largest canyon in the world?',
-        answer: 'Grand Canyon, USA',
+        question: 'Which core ingredient is important to cook a savory dish?',
+        answer: 'Salt',
         options: [
-            'Verdon Gorge, France',
-            "King's Canyon, Australia",
-            'Grand Canyon, USA',
-            'Fjaorargljufur Canyon, Iceland',
+            'Salt',
+            'Butter',
+            'Sugar',
+            'Brown Sugar',
         ]
     },
     {
-        question: 'How long is the border between the United States and Canada?',
-        answer: '5,525 miles',
+        question: 'What is the currency of India?',
+        answer: 'Rupee',
         options: [
-            '3,525 miles',
-            '4,525 miles',
-            '5,525 miles',
-            '6,525 miles',
+            'Pound',
+            'Rupee',
+            'Riyal',
+            'Dollar',
         ]
     },
     {
-        question: 'What is the largest active volcano in the world?',
-        answer: 'Mouna Loa',
+        question: 'Which popular Disney show was Miley Cyrus part of?',
+        answer: 'Hannah Montana',
         options: [
-            'Mount Etna',
-            'Mount Vesuvius',
-            'Mouna Loa',
-            'Mount Batur',
+            'Two Broke Girls',
+            'Bend It Like Beckham',
+            'Hannah Montana',
+            'The Big Bang Theory',
         ]
     }
 ]
